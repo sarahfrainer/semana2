@@ -25,3 +25,5 @@ function filtrarAdultos(pessoas) {
     { nome: 'David', idade: 19 }
     ];
     console.log(filtrarAdultos(pessoas));
+
+    
